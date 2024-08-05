@@ -1,0 +1,35 @@
+
+
+
+
+
+
+@font-face {
+  font-family: 'Helvetica';
+  src: url('../src/assets/font/Helvetica.ttf') format('truetype');
+}
+
+*{
+  font-family: 'Helvetica', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul, li{
+  list-style: none;
+  text-decoration: none;
+}
+
+/* @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+*{
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  background: radial-gradient(circle, #fff 0%,#fff 30%, #ffd6d6 100%);
+} */
+a{
+  text-decoration: none;
+}

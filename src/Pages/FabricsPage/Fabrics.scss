@@ -1,0 +1,35 @@
+.fabrics{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    @media(max-width:880px){
+        gap: 0;
+    }
+    @media(max-width:530px){
+        gap: 20px;
+    }
+    @media(max-width:470px){
+        gap: 90px;
+    }
+    @media(max-width:450px){
+        gap: 140px;
+    }
+    @media(max-width:430px){
+        gap: 75px;
+    }
+    @media(max-width:425px){
+        gap: 105px;
+    }
+    @media(max-width:400px){
+        gap: 130px;
+    }
+    @media(max-width:380px){
+        gap: 164px;
+    }
+    @media(max-width:370px){
+        gap: 188px;
+    }
+    @media(max-width:350px){
+        gap: 79px;
+    }
+}
