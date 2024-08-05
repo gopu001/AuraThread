@@ -25,12 +25,13 @@
         gap: 107px;
     }
     @media(max-width:380px){
-        gap: 164px;
+        // gap: 164px;
+        gap: 149px;
     }
-    @media(max-width:370px){
-        gap: 188px;
-    }
-    @media(max-width:350px){
-        gap: 79px;
-    }
+    // @media(max-width:370px){
+    //     gap: 188px;
+    // }
+    // @media(max-width:350px){
+    //     gap: 79px;
+    // }
 }
